@@ -1,0 +1,11 @@
+.list {
+  margin-top: 20px;
+}
+
+.list ol {
+  margin-bottom: 10px;
+  background-color: #f2f2f2;
+  padding: 10px;
+  color: #333;
+  margin-left: 20px;
+}
