@@ -1,4 +1,4 @@
-.create {
+/* .create {
     margin-top: 20px;
     display: flex;
     flex-direction: column;
@@ -21,7 +21,7 @@
   .create textarea,
   .create select {
     margin-bottom: 10px;
-  }
+  } */
   
   .create button {
     background-color: #007bff;

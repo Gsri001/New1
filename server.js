@@ -53,8 +53,7 @@ app.post('/create-Issue', upload.single('file'), async (req, res) => {
         'X-Atlassian-Token': 'nocheck'
       }
     });
-      console.log(response)
-    
+      console.log(response) 
     const issueKey = response.data.key;
     // console.log(issuekey)
     const file = req.file; 

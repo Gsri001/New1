@@ -12,7 +12,7 @@ const List = ({ lists }) => {
           <ol key={list.id}>
             {list.id}
              <p>             
-              Summary: {list.summary}
+              Summarys: {list.summary}
               <br />
               Description: {list.description}
               <br />

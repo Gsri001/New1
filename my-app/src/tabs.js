@@ -30,9 +30,7 @@ function Tabs() {
           Headers
         </button>
         <button
-          className={toggleState === 4 ? "tabs active-tabs" : "tabs"}
-          onClick={() => toggleTab(4)}
-        >
+          className={toggleState === 4 ? "tabs active-tabs" : "tabs"}onClick={() => toggleTab(4)}>
           Body
         </button>
         <button
